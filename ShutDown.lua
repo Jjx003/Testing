@@ -6,10 +6,6 @@ wait(3)
 n.Text = "CoreSB:Shuting-Down GoodBye Cya!"
 wait(3)
 n.Text = "CoreSB:Shuting-Down GoodBye Cya!"
-wait(3)
-n.Text = "CoreSB:Shuting-Down GoodBye Cya!"
-wait(3)
-n.Text = "CoreSB:Shuting-Down GoodBye Cya!"
 
 game.Players:ClearAllChildren()
 n.Text = "CoreSB:Shuting-Down GoodBye Cya!"
