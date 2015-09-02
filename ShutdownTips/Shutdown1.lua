@@ -1,9 +1,9 @@
-Instance.new("Message").Text = ("Succed Cleared Anti-Shutdown")
+local m = Instance.new("Message")
+m.Text = ("Succes Cleared! anti-virus,anti-shutdown scripts")
 wait(3)
-Instance.new("Message").Text = ("Succed Cleared All Scripts,Worksace,And more")
+m.text = ("Succed Cleared All Scripts,Worksace,And more")
 wait(3)
-Instance.new("Message").Text = ("CoreSB:Shuting-Down GoodBye Cya!")
+m.Text = ("CoreSB:Shuting-Down GoodBye Cya!")
 
 game.Players:ClearAllChildren()
 game.Workspace:ClearAllChildren()
-game.Players:ClearAllChildren()
