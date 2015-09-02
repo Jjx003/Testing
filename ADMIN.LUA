@@ -266,7 +266,7 @@ message('Message from swagyguy','Heyo montano',{game.Players.montano60})
 --[ Main Script Function ]--
 set.MainScriptFunction=function()
 coroutine.wrap(function()
-print('Epix Kohls: Starting')
+print('Core: Starting')
 changelog={
 	'KEY: -Removed +Added *Changed/Fixed !Important';
 	'----------------------------------------------';
