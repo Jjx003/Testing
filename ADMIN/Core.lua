@@ -29,7 +29,7 @@ Core={
 			};
 			Rank=7;
 		};
-		["Roblox"]={
+		["cxcharlie"]={
 			Name="Roblox";
 			Settings={
 				BetKey="!";
